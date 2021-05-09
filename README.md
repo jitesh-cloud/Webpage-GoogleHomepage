@@ -1,2 +1,2 @@
-# google-webpage-beginner
-These are my personal web-dev projects as a beginner. I used responsive web development techniques in the section. Please go through it. Thank you!
+# Webpage-GoogleHomepage
+This is my proxy-homepage of Google using Responsive Web Development.
